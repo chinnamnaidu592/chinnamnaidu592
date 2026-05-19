@@ -1,126 +1,222 @@
 # 👋 Hi, I'm Chinnam Naidu Latchipathula
 
-🎓 Computer Science Undergraduate (Data Science)  
-🤖 AI / ML | 📊 Data Science | 📱 Android ML Apps  
-📍 Visakhapatnam, India  
+🚀 AI/ML Engineer | Deep Learning | NLP | MLOps | Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chinnam-naidu-latchipathula/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/chinnamnaidu592)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:chinnamnaidu592@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-orange)](https://www.credly.com/users/latchipathula-chinnamnaidu)
+Final-year B.Tech Computer Science (Data Science) undergraduate passionate about building intelligent systems using Machine Learning, Computer Vision, NLP, and scalable AI solutions. Experienced in developing end-to-end AI pipelines, model deployment, and real-world applications.
 
 ---
 
-## 🚀 About Me
+## 📌 About Me
 
-I’m a **Computer Science (Data Science) undergraduate** passionate about building **real-world AI-powered applications** and extracting meaningful insights from data.
-
-I enjoy working across the stack — from **data preprocessing and model training** to **deploying ML models in Android applications**. I’m constantly learning and experimenting with **Machine Learning, Deep Learning, and Big Data tools**.
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering (Data Science)**  
-Nadimpalli Satyanarayana Raju Institute of Technology  
-📅 2022 – 2026 | **GPA: 8.68**
+- 🎓 B.Tech — Computer Science & Engineering (Data Science)
+- 🏫 NSRIT, Visakhapatnam
+- 📊 GPA: 8.70/10
+- 💡 Strong interest in AI, Deep Learning, NLP, Computer Vision, and MLOps
+- 🔬 Research presenter recognized among Top 5 at AMTZ, Visakhapatnam
+- 👨‍💻 Built production-grade ML applications and deployed intelligent systems
 
 ---
 
-## 💼 Experience
+## 📫 Connect With Me
 
-### 🔹 AIML Intern — Google AI-ML & Android Developer (EduSkills)
-📅 Jun 2025  
-- Completed a **240-hour APSCHE-certified long-term internship**
-- Followed structured learning paths via **Google Developers Portal**
-- Built and evaluated ML models using Google AI tools
-- Gained hands-on experience in **Python, ML fundamentals, and Android development**
+📧 Email: chinnamnaidu592@gmail.com
 
-### 🔹 Data Science Intern — APSSDC
-📅 Apr 2025 – Jun 2025  
-- Worked on the **complete data analysis lifecycle**
-- Data cleaning, preprocessing, transformation using **Pandas & NumPy**
-- Performed **Exploratory Data Analysis (EDA)** on real-world datasets
-- Built insightful visualizations using **Matplotlib & Seaborn**
+📱 Phone: +91 9502563793
+
+💼 LinkedIn: https://linkedin.com/in/chinnam-naidu-latchipathula
+
+💻 GitHub: https://github.com/chinnamnaidu592
+
+📍 Location: Visakhapatnam, India
 
 ---
 
-## 🧠 Skills
+## 🛠 Tech Stack
 
-### 💻 Programming
-`Java` `Python` `C` `JavaScript` `HTML` `CSS` `SQL` `Node.js`
+### Machine Learning & Deep Learning
+- TensorFlow
+- Keras
+- PyTorch
+- Scikit-learn
+- XGBoost
+- LightGBM
 
-### 📊 Data Science & ML
-`Machine Learning` `Deep Learning` `EDA` `CNNs` `TensorFlow Lite`  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+### NLP & LLM
+- HuggingFace Transformers
+- NLTK
+- spaCy
+- Sentence-BERT
+- RAG Basics
 
-### 🗄️ Databases & Big Data
-`MySQL` `Hadoop` `Apache Spark` `Distributed File Systems`
+### Computer Vision
+- OpenCV
+- CNN
+- ResNet
+- MobileNet
+- EfficientNet
+- YOLOv5
+- TensorFlow Lite
 
-### 🛠️ Tools
-`Git` `GitHub` `VS Code` `Eclipse` `Jupyter Notebook` `PyCharm` `MS Excel`
+### MLOps & Deployment
+- FastAPI
+- Streamlit
+- MLflow
+- GitHub Actions
+- CI/CD
 
----
+### Data Analytics
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Matplotlib
+- Seaborn
 
-## 📂 Featured Projects
+### Cloud Platforms
+- Google Vertex AI
+- AWS S3
+- Kaggle
+- Google Colab Pro
 
-### 🍎 Fruit & Vegetable Freshness Detection (Android + ML)
-📱 Android | 🤖 CNN | 🧠 TensorFlow Lite  
+### Languages
+- Python
+- SQL
+- Java
+- R
 
-- Built an **Android app** for real-time freshness detection
-- Trained a **custom CNN model** with image augmentation
-- On-device inference using **TensorFlow Lite**
-- Categories: **Fresh | Medium | Spoiled**
-- Achieved **90%+ validation accuracy**
-
-🔗 **Repo:** [Vita_Capture](https://github.com/chinnamnaidu592)
-
----
-
-### 🎵 Spotify 9 Years Data Analysis
-📊 Data Analysis | 📈 Visualization  
-
-- Performed **EDA on 9 years of Spotify streaming data**
-- Analyzed trends in:
-  - Song popularity
-  - Genre evolution
-  - User engagement
-- Built advanced visualizations:
-  - Time-series plots
-  - Heatmaps
-  - Artist comparisons
-
-🔗 **Repo:** [Spotify_9years_Data_Analysis](https://github.com/chinnamnaidu592)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **Artificial Intelligence Fundamentals** — IBM SkillBuild
-- 🧠 **Java Skill Test (75%)** — Spoken Tutorial, IIT Bombay
-- 📄 Presented a **top-rated research paper** at AMTZ, Visakhapatnam
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning & Deep Learning
-- Android ML Optimization
-- Big Data Analytics
-- Real-world AI Deployment
+### Tools
+- Git/GitHub
+- Jupyter Notebook
+- VS Code
+- Android Studio
+- Excel
 
 ---
 
-## 📫 Let’s Connect
+# 💼 Experience
 
-💡 Open to:
-- Internships  
-- Research projects  
-- Collaborations  
-- Open-source contributions  
+## AI/ML Engineer Intern
+### EduSkills × Google (AICTE Approved)
+*Jun 2025 – Aug 2025*
 
-📩 Reach me via **LinkedIn or Email**
+- Built and trained supervised ML models on 120K+ dataset
+- Achieved F1-score of 0.87
+- Developed end-to-end Vertex AI pipelines
+- Applied SHAP explainability methods
+- Worked in Git-based collaborative workflow
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## Data Science Intern
+### APSSDC — Government of Andhra Pradesh
+*Apr 2025 – Jun 2025*
+
+- Processed datasets containing 50K–200K rows
+- Performed EDA and business insights extraction
+- Created SQL analytical queries
+- Automated reporting dashboards
+
+---
+
+# 🚀 Featured Projects
+
+## AI Generated vs Real Image Detection — Deepfake Forensics System
+
+Technologies:
+Python | HuggingFace | Vision Transformer | OpenCV | Streamlit
+
+Features:
+
+✔ Deepfake image detection
+
+✔ Test-Time Augmentation ensemble
+
+✔ Dynamic thresholding
+
+✔ Real-time deployment
+
+Dataset: 30,000+ images
+
+GitHub:
+
+https://github.com/chinnamnaidu592/AI-Image-Detection
+
+---
+
+## Real-Time Fruit & Vegetable Freshness Detector
+
+Technologies:
+
+TensorFlow | OpenCV | TensorFlow Lite | Android Studio
+
+Features:
+
+✔ Real-time freshness detection
+
+✔ Android deployment
+
+✔ TensorFlow Lite optimization
+
+✔ Live camera integration
+
+Validation Accuracy: **91.3%**
+
+GitHub:
+
+https://github.com/chinnamnaidu592/VitaCapture
+
+---
+
+## Spotify 9-Year Streaming Data Analysis
+
+Technologies:
+
+Python | Pandas | Matplotlib | Seaborn
+
+Features:
+
+✔ Analysis of 600,000+ tracks
+
+✔ Trend prediction
+
+✔ Time-series visualization
+
+✔ Artist popularity analytics
+
+GitHub:
+
+https://github.com/chinnamnaidu592/Spotify_9years_Data_Analysis
+
+---
+
+# 🏆 Certifications
+
+- IBM SkillsBuild — AI Fundamentals
+- NPTEL — Data Analysis using Python (Elite)
+- EdX / RIT — Data Visualization in Tableau
+
+---
+
+# 🏅 Achievements
+
+🏆 Top-rated Research Paper Presenter at AMTZ
+
+🏆 Organized AI/ML workshop attended by 120+ students
+
+🏆 Technical Lead for college activities
+
+---
+
+## 📈 Current Focus
+
+Currently exploring:
+
+- Generative AI
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- MLOps Pipelines
+- AI Infrastructure
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.
