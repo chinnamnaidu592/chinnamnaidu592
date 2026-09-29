@@ -10,7 +10,7 @@ Final-year B.Tech Computer Science (Data Science) undergraduate passionate about
 
 - 🎓 B.Tech — Computer Science & Engineering (Data Science)
 - 🏫 NSRIT, Visakhapatnam
-- 📊 GPA: 8.70/10
+- 📊 GPA: 8.77/10
 - 💡 Strong interest in AI, Deep Learning, NLP, Computer Vision, and MLOps
 - 🔬 Research presenter recognized among Top 5 at AMTZ, Visakhapatnam
 - 👨‍💻 Built production-grade ML applications and deployed intelligent systems
